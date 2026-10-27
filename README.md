@@ -1,5 +1,7 @@
 # K-Pop Chart Comeback & Fandom Intensity Dashboard
 
+project app link : https://mukkbttbj6heuc8tmwdzbe.streamlit.app/
+
 An interactive Streamlit dashboard for the "Comeback Momentum, Chart Re-Entry, and
 Fandom Intensity Analysis of South Korea Top 50 Playlist" project.
 
